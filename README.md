@@ -1,3 +1,3 @@
 # eudyptula-challenge
 
-- [] Task 01
+- [x] Task 01
