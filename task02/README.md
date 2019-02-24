@@ -5,7 +5,7 @@ task02 -- building and booting from source
 
 #### Tasks
 - [x] Download Linus's source
-- [x] Build and boot on VirtualBox
+- [x] Build and boot on VirtualBox VM
 - [ ] Build and boot on RaspberryPi (?)
 
 
@@ -55,6 +55,14 @@ sudo make install -j6
 
 And that completes Task02. I think I'd like to revisit cross-compiling for ARM and perhaps looking into `make localmodconfig` as the task instructions suggested.
 
+___
+
+## Notes
+
+### Questions 
+1. What does `CONFIG_LOCALVERSION_AUTO` do?
+2. What is the difference between vmlinuz and bzImage?
+vmlinuz 
 ___
 
 ## Appendix
