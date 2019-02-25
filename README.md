@@ -16,7 +16,7 @@ Task Status
 
 - [x] task 01
 - [x] task 02
-- [ ] task 03
+- [x] task 03
 - [ ] task 04
 - [ ] task 05
 - [ ] task 06
