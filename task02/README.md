@@ -3,13 +3,14 @@ task02 -- building and booting from source
 
 ## Overview
 
-#### Tasks
+### Tasks
+
 - [x] Download Linus's source
 - [x] Build and boot on VirtualBox VM
 - [ ] Build and boot on RaspberryPi (?)
 
 
-#### Summary:
+### Summary:
 - Cloned Linus's source from git.kernel.org => [Linus's Source](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/)
 - Updated and installed necessary packages for development
 ``` 
@@ -60,9 +61,16 @@ ___
 ## Notes
 
 ### Questions 
+
 1. What does `CONFIG_LOCALVERSION_AUTO` do?
+
 2. What is the difference between vmlinuz and bzImage?
-vmlinuz 
+
+**zImage** is a compressed image of the Linux kernel and fits within the lower 640k on the computer
+
+**bzImage** requires more than 640k and needs to be specially linked to survive the i386 boot process
+
+**vmlinuz** resides in the `/boot` directory and can either be a zImage or a bzImage. It can also be renamed and used in lilo.conf (Linux Loader -- Linux Bootloader)
 ___
 
 ## Appendix
