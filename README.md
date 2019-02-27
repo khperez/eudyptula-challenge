@@ -16,11 +16,11 @@ ___
 
 ## Task Status
 
-- [x] task 01
-- [x] task 02
-- [x] task 03
-- [ ] task 04
-- [ ] task 05
+- [x] task 01: intro to LKMs
+- [x] task 02: building and booting from source
+- [x] task 03: kernel version strings && patches
+- [x] task 04: coding style
+- [ ] task 05: usb keyboard kernel module
 - [ ] task 06
 - [ ] task 07
 - [ ] task 08
