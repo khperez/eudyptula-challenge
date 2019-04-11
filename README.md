@@ -20,8 +20,8 @@ ___
 - [x] task 02: building and booting from source
 - [x] task 03: kernel version strings && patches
 - [x] task 04: coding style
-- [ ] task 05: usb keyboard kernel module
-- [ ] task 06
+- [x] task 05: usb keyboard kernel module
+- [ ] task 06 : misc char device driver
 - [ ] task 07
 - [ ] task 08
 - [ ] task 09
