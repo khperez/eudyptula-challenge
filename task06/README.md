@@ -41,6 +41,8 @@ This is Task 06 of the Eudyptula Challenge
 
 ### Summary
 
+![misc eudyptula device][misc_eudyptula]
+
 #### Steps
 
 ### Results
@@ -52,3 +54,5 @@ ___
 ___
 
 ## Things I Learned
+
+[misc_eudyptula]: /images/task06_dev-eudyptula.png
